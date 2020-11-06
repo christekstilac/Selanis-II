@@ -6,7 +6,7 @@ categories: demo
 ---
 
 **The following elements you need for the best soap ever**
-- She butter
+- Shea butter
 - cacao milk
 - sugar
 - white powder
